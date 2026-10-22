@@ -1,7 +1,7 @@
 {
     "version":  "0.1.0",
     "url":  "https://raw.githubusercontent.com/LOSFLAMAS/FLAMAS-PLAYER/main/Flamas_Player/FlamasPlayer.zip?v=0.1.0",
-    "sha256":  "8c1a3379fee08f26289caf54ff5df4ca8b9f236f19172f7b1b4b19b78e2cd96a",
-    "notes":  "Flamas Player separado del motor: sin editor, juegos cifrados y actualizacion automatica.",
+    "sha256":  "23c5ef6111dd5dae2bf30ef6a0fd777095cecf1b5ec87f0ea55dab281f5c9bc8",
+    "notes":  "",
     "page":  "https://github.com/LOSFLAMAS/FLAMAS-PLAYER"
 }
