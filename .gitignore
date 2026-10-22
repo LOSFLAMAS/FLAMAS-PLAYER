@@ -1,0 +1,11 @@
+# La copia lista para abrir en esta PC (Publish Player.bat la arma; no se sube)
+App/
+# Lo que el Player escribe mientras se usa
+Downloads/
+Logs/
+Prefs/
+Reports/
+editor_settings.ini
+imgui.ini
+# Accesos directos locales
+*.bat
