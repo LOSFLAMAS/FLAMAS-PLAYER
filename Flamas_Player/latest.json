@@ -1,7 +1,7 @@
 {
-    "version":  "0.1.0",
-    "url":  "https://raw.githubusercontent.com/LOSFLAMAS/FLAMAS-PLAYER/main/Flamas_Player/FlamasPlayer.zip?v=0.1.0",
-    "sha256":  "23c5ef6111dd5dae2bf30ef6a0fd777095cecf1b5ec87f0ea55dab281f5c9bc8",
-    "notes":  "",
+    "version":  "0.1.1",
+    "url":  "https://raw.githubusercontent.com/LOSFLAMAS/FLAMAS-PLAYER/main/Flamas_Player/FlamasPlayer.zip?v=0.1.1",
+    "sha256":  "07e47be135ae7f46eaa6d2c4cb57c83f957e2acf31df1e5030f24b6cc35b11b2",
+    "notes":  "Si la tarjeta de video no tiene OpenGL 3.3, ahora explica como arreglarlo en vez de cerrarse.",
     "page":  "https://github.com/LOSFLAMAS/FLAMAS-PLAYER"
 }
