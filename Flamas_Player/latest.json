@@ -1,8 +1,8 @@
 {
-    "version":  "0.1.4",
-    "url":  "https://raw.githubusercontent.com/LOSFLAMAS/FLAMAS-PLAYER/main/Flamas_Player/FlamasPlayer.zip?v=0.1.4",
-    "sha256":  "688ffd1c3465327ab24f148189c4b67d8dc05d43566b2c8da015d64f183fd27e",
-    "notes":  "Intro al entrar a un servidor (un click la salta).",
+    "version":  "0.1.5",
+    "url":  "https://raw.githubusercontent.com/LOSFLAMAS/FLAMAS-PLAYER/main/Flamas_Player/FlamasPlayer.zip?v=0.1.5",
+    "sha256":  "f824f97a45785e040ad67fb4205eb361a11f62ce23e2c69b19e37d2f6dfb0c8e",
+    "notes":  "Ya no entras a la partida hasta que termine o saltes la intro.",
     "page":  "https://github.com/LOSFLAMAS/FLAMAS-PLAYER",
     "master":  "http://38.247.135.83:29380"
 }
