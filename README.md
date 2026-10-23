@@ -2,11 +2,11 @@
 
 <p align="center">
   <a href="https://github.com/LOSFLAMAS/FLAMAS-PLAYER/raw/main/Flamas_Player/FlamasPlayer.zip">
-    <img src="https://img.shields.io/badge/DESCARGAR-Flamas%20Player%200.1.3-ff5a1f?style=for-the-badge&logo=windows&logoColor=white" alt="Descargar Flamas Player" height="56">
+    <img src="https://img.shields.io/badge/DESCARGAR-Flamas%20Player%200.1.4-ff5a1f?style=for-the-badge&logo=windows&logoColor=white" alt="Descargar Flamas Player" height="56">
   </a>
 </p>
 
-<p align="center"><b>Versi&oacute;n 0.1.3</b> &middot; Windows 10 / 11 &middot; 9.3 MB</p>
+<p align="center"><b>Versi&oacute;n 0.1.4</b> &middot; Windows 10 / 11 &middot; 16.1 MB</p>
 
 Flamas Player sirve para buscar servidores de juegos hechos con **Flamas Engine** y entrar a jugar.
 
