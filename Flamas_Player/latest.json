@@ -1,8 +1,8 @@
 {
-    "version":  "0.1.2",
-    "url":  "https://raw.githubusercontent.com/LOSFLAMAS/FLAMAS-PLAYER/main/Flamas_Player/FlamasPlayer.zip?v=0.1.2",
-    "sha256":  "7912151b2012ccb91b48c6813a24718637837ffc4b8fc47b0761ae01016f275d",
-    "notes":  "Ahora salen los servidores de internet (lista Internet), no solo los de tu red.",
+    "version":  "0.1.3",
+    "url":  "https://raw.githubusercontent.com/LOSFLAMAS/FLAMAS-PLAYER/main/Flamas_Player/FlamasPlayer.zip?v=0.1.3",
+    "sha256":  "b930b4400ac946722b3794d77e90ce55994f9c9dc78050ef25d446cee0868bfb",
+    "notes":  "Nuevo icono: la llama morada de Flamas Player.",
     "page":  "https://github.com/LOSFLAMAS/FLAMAS-PLAYER",
     "master":  "http://38.247.135.83:29380"
 }
